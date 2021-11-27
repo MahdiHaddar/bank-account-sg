@@ -1,6 +1,6 @@
-Bank Account  #titre
+#Bank Account  
 Develop an api that manages a bank account  
-Rules:  ##titre
+##Rules:  
 ● Write some code to create a bank application and to withdraw/deposit a valid
 amount of money in/from the account  
 ● Write some code to transfer a specified amount of money from one bank
