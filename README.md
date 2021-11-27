@@ -1,4 +1,4 @@
-_Bank Account_  
+__Bank Account__  
 Develop an api that manages a bank account  
 Rules:  
 ● Write some code to create a bank application and to withdraw/deposit a valid
